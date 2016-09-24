@@ -2,6 +2,11 @@
 
 Instructor: Hung Tran (tran_h3@denison.edu)
 
+## 2016/09/24 (Saturday) class in folder `09-22`:
+- Read HTML Basics: http://marksheet.io/html-basics.html
+- Practice 10+ problems on basic HTML: https://www.codecademy.com/courses/web-beginner-en-HZA3b
+- Offline practice material: [Google Drive link](https://drive.google.com/drive/folders/0B9Afgj6vrmnzUjFOcmdXM2JVUE0?usp=sharing) (learn by seeing how elements look like, see how it was built with Inspector tool in the browswer or look at the source HTML, then try to **reproduce it**)
+
 ## 2016/09/22 (Thursday) class in folder `09-22`:
 
 You can download this whole folder:
